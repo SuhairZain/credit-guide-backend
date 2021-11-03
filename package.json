@@ -4,5 +4,9 @@
   "description": "The backend for yet another project started by SZ",
   "main": "index.ts",
   "author": "Suhair Zain",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SuhairZain/credit-guide-backend.git"
+  }
 }
