@@ -1,0 +1,8 @@
+{
+  "name": "credit-guide-backend",
+  "version": "0.0.1",
+  "description": "The backend for yet another project started by SZ",
+  "main": "index.ts",
+  "author": "Suhair Zain",
+  "license": "MIT"
+}
